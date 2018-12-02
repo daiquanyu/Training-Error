@@ -13,3 +13,4 @@
 7. 第一层激活函数不要使用relu，使用tanh甚至sigmoid ？？？
 
 ![Activation Functions](https://github.com/wonniu/Training-Error/raw/master/image/activations.png)
+From: https://blog.csdn.net/u013555719/article/details/77863953
