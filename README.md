@@ -12,4 +12,4 @@
 6. 在某些涉及指数计算，可能最后算得值为INF（比如不做其他处理的softmax中分子分母需要计算exp(x)，值过大，最后可能为INF/INF，得到NaN，此时需要确认我们使用的softmax中计算exp(x)时做了相关处理（比如减去最大值等等））。  
 7. 第一层激活函数不要使用relu，使用tanh甚至sigmoid ？？？
 
-![Activation Functions](http://github.com/wonniu/Training-Error/image/activations.png)
+![Activation Functions](http://github.com/wonniu/Training-Error/image/activations)
